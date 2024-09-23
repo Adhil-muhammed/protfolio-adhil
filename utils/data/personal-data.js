@@ -3,7 +3,7 @@ export const personalData = {
   // profile: '/profile.jpeg',
   designation: "Software Developer",
   description:
-    "My name is Anusree. I am a professional and enthusiastic programmer in my day-to-day work. I am a quick learner with a proactive attitude towards self-learning. I love to learn and explore new technologies and am passionate about problem-solving. I strive to make my web applications more accessible to the world. My core skill is based on the MERN Stack, and I prefer to work primarily with JavaScript/TypeScript. I am available for any job opportunity that aligns with my skills and interests.",
+    "My name is Adhil Muhammed. I am a dedicated and results-driven developer, constantly pushing the boundaries of my knowledge through proactive self-learning and practical application. With deep expertise in the MERN stack, I excel in JavaScript/TypeScript, applying my problem-solving abilities to build intuitive, scalable, and accessible web solutions. Committed to staying ahead of technological advancements, I actively explore emerging innovations to continually refine my work. I am open to new professional opportunities where I can leverage my skills to deliver meaningful and impactful contributions.",
   email: "anu.mj0608@gmail.com",
   phone: "+919778363559",
   address: "Thiruvananthapuram,Kerala,India-695571 ",
